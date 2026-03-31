@@ -52,8 +52,7 @@ This project is a simple and interactive chatbot built using HTML, CSS, and Java
 ---
 
 ## Author
-Your Name
-
+ TEJAS MISAL
 - LinkedIn   :   https://www.linkedin.com/in/tejas-misal-m4721
 - Instagram  :   https://www.instagram.com/mr_tejas_4721?igsh=MTZrOHhhbjR3eDdsaA==
 - youtube    :   https://youtube.com/@tejasmisal-m5d?si=3VJ09ViKN0COaNnd
@@ -68,5 +67,5 @@ This project is open-source and available under the MIT License.
 ## Support
 If you like this project, please give it a star on GitHub.
 
-## ⭐ Support
+##  Support
 If you like this project, please give it a ⭐ on GitHub!
